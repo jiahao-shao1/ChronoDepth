@@ -1,5 +1,7 @@
 # ChronoDepth: Learning Temporally Consistent Video Depth from Video Diffusion Priors
 
+**CVPR 2025**
+
 This repository represents the official implementation of the paper titled "Learning Temporally Consistent Video Depth from Video Diffusion Priors".
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fjhaoshao.github.io%2FChronoDepth%2F&up_message=ChronoDepth&up_color=blue&style=flat&logo=timescale&logoColor=%23FFDC0F)](https://xdimlab.github.io/ChronoDepth/) [![Paper](https://img.shields.io/badge/arXiv-PDF-b31b1b)](https://arxiv.org/abs/2406.01493) [![Hugging Face Space](https://img.shields.io/badge/🤗%20Hugging%20Face-Space-yellow)](https://huggingface.co/spaces/jhshao/ChronoDepth)
